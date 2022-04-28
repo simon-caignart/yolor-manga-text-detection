@@ -1,0 +1,1 @@
+# yolor-manga-text-detection
