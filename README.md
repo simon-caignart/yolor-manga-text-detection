@@ -5,6 +5,8 @@ I trained the **YOLOR [1]** algorithm on the **Manga109 dataset [2]** to detect 
 ## Train and test it.
 You can use the ``yolor.ipynb`` file to test the model or train it with your own dataset.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SimonCaignart/yolor-manga-text-detection/blob/main/yolor.ipynb)
+
 ## Dataset
 I used the **Manga109 dataset [2]** to train my model. If you wish to download it, you can send an application via [this form]( https://docs.google.com/forms/d/e/1FAIpQLSefUGHUlkDfYlnOKLZlBqRtqlhmZWmhL1_NBfZ24zHOeCoguA/viewform). I used [Roboflow](https://roboflow.com/) to manage my dataset (split it, apply preprocessing and augmentations), and to easily download it to my python notebook.
 
