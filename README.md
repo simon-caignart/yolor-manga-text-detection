@@ -13,6 +13,14 @@ I used the **Manga109 dataset [2]** to train my model. If you wish to download i
 ## Trained weights
 You can download the trained weights [here](https://drive.google.com/file/d/1yEN1xPaFNhnbzyUqomABDlm3c50lXv3W/view?usp=sharing). This is the best overall over 100 epochs of training.
 
+Below is the result of the trained model for a page:
+
+![](https://github.com/simon-caignart/yolor-manga-text-detection/assets/44498056/fde66d40-6977-4991-9c76-e4bf2383947c)
+
+## Research paper
+
+Read it [here](https://github.com/simon-caignart/yolor-manga-text-detection/blob/main/First_step_for_automatic_manga_translation.pdf).
+
 ## References
 
 <a id="1">[1]</a> 
